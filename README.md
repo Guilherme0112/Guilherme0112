@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Guilherme.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning PHP.
 - 💞️ I am looking to collaborate in any area.
 - 📫 How to reach me https://bit.ly/4aMf38U
 - ⚡ Fun fact: I always strive to be the best in everything I do.
