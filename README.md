@@ -18,3 +18,12 @@
   <img align="center" heigth="30" width="40" title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
           
 </div>
+<h1></h1>
+<div>
+  <a href="mailto: guimendesmen124@gmail.com" target="_blank">
+    <img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+    <img align="center" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</div>
