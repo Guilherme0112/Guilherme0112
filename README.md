@@ -21,7 +21,7 @@
 <h1></h1>
 <div>
   <a href="mailto: guimendesmen124@gmail.com" target="_blank">
-    <img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="" target="_blank">
     <img align="center" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
