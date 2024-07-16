@@ -24,3 +24,10 @@
   <a href="https://www.linkedin.com/in/guilherme-mendes-8172362b6/" target="_blank"><img align="center" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/gui.espanhol_" target="_blank"><img align="center" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+<h1></h1>
+
+<div align="center">
+  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=1000&height=45&lines=Quem+anda+na+integridade+anda+seguro,+quem+falseia+seus+caminhos+será+descoberto.+-+(Provérbio+10:9)">
+
+</div>
