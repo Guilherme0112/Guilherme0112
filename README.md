@@ -15,7 +15,7 @@
 <h4>Tecnologias Secundárias</h4>
   
   <img align="center" heigth="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" heigth="30" width="40" title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
+  <img align="center" heigth="50" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
           
 </div>
 <h1></h1>
