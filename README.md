@@ -14,6 +14,7 @@
   <br>
   <img align="center" heigth="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" heigth="50" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
+  <img align="center" heigth="50" width="50" title="API REST" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" />
           
 </div>
 <h1></h1>
