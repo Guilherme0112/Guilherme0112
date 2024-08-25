@@ -13,6 +13,7 @@
   <img align="center" heigth="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <br>
   <img align="center" heigth="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" heigth="20" width="35" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
   <img align="center" heigth="50" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
   <img align="center" heigth="50" width="50" title="API REST" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" />
           
