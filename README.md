@@ -12,7 +12,6 @@
   <img align="center" heigth="30" width="40" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" heigth="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <br>
-  <img align="center" heigth="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" heigth="20" width="35" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
   <img align="center" heigth="20" width="35" title="Express JS" src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png" />
   <img align="center" heigth="50" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
