@@ -15,12 +15,17 @@
   <img align="center" heigth="20" width="35" title="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
   <img align="center" heigth="20" width="35" title="Express JS" src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png" />
   <img align="center" heigth="50" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
-  <img align="center" heigth="50" width="50" title="API REST" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" />
-          
+  <img align="center" heigth="50" width="50" title="API REST" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" />    
 </div>
-<h1></h1>
+<h3>Tools</h3>
+  <div>
+    <img align="center" heigth="38" width="38" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />    
+    <img align="center" heigth="38" width="38" title="VS Code" src="https://code.visualstudio.com/assets/images/code-stable.png" />    
+    <img align="center" heigth="38" width="38" title="Git" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253808/git-icon-icon-md.png" />    
+  </div>
+  <br>
 <div>
-  <a href="mailto: guimendesmen124@gmail.com" target="_blank"><img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:guimendesmen124@gmail.com" target="_blank"><img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilherme-mendes-8172362b6/" target="_blank"><img align="center" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/gui.espanhol_" target="_blank"><img align="center" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
