@@ -18,7 +18,6 @@
     <img align="center" width="40" title="Express JS" src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png" />
     <img align="center" width="40" title="Java" src="https://impactclient.net/img/java-icon.png" />    
     <img align="center" width="60" title="Spring Boot" src="https://th.bing.com/th/id/R.8315cb308b890c7087edfc088043f572?rik=odWAvjYFvlHZtg&pid=ImgRaw&r=0" />   
-    <img align="center"width="55" title="API REST" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" />    
 </div>
 <h4>Banco de Dados:</h4>
     <img align="center" width="50" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
