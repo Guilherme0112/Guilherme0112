@@ -6,10 +6,11 @@
 <h3>Skills:</h3>
 <div>
   <h4>Front-End:</h4>
-    <img align="center" heigth="30" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" heigth="30" width="40" title="CSS"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    
-    <img align="center" heigth="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" heigth="50" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
+    <img align="center" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" width="40" title="CSS"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    
+    <img align="center" width="50" title="Bootstrap" src="https://th.bing.com/th/id/R.7321a5c4e2a5df026a063e326b36bfe9?rik=WMGH49RNFxeF%2bQ&pid=ImgRaw&r=0" />    
+    <img align="center" width="37" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
   <h4>Back-End:</h4>
     <img align="center" width="50" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img align="center" width="40" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
