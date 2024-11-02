@@ -1,4 +1,9 @@
 ## Olá, eu sou o Guilherme
+<i>
+  Desenvolvedor back-end em formação, apaixonado por criar soluções inovadoras. Atualmente trabalhando em projetos pessoais. Procuro oportunidades para colaborar em projetos e aprimorar minhas habilidades.
+</i>
+<br>
+<br>
 <div align = "center">     
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=guilherme0112&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0112&layout=compact&langs_count=7&theme=dark"/>     
