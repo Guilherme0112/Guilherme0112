@@ -36,7 +36,7 @@
   <br>
 <div>
   <a href="mailto:guimendesmen124@gmail.com" target="_blank"><img align="center" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilherme-mendes-8172362b6/" target="_blank"><img align="center" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-mendes-gomes/" target="_blank"><img align="center" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/gui.espanhol_" target="_blank"><img align="center" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
