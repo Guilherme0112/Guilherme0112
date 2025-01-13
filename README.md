@@ -14,6 +14,7 @@
     <img align="center" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" width="40" title="CSS"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    
     <img align="center" width="50" title="Bootstrap" src="https://th.bing.com/th/id/R.7321a5c4e2a5df026a063e326b36bfe9?rik=WMGH49RNFxeF%2bQ&pid=ImgRaw&r=0" />    
+    <img align="center" width="50" title="NextJS" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />    
     <img align="center" width="37" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="center" width="45" title="JQuery" src="https://th.bing.com/th/id/R.9999c1a8c347b81c5cb5df967664c4c3?rik=FHsenlk6erszpg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjquery-logo-png--800.gif&ehk=gsP%2bp%2brVzzjyjQeEjqAhY1ODCpzk5LsWcq2W9rIaTQs%3d&risl=&pid=ImgRaw&r=0" />
     <img align="center" width="50" title="AJAX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" />
