@@ -32,6 +32,7 @@
     <img align="center" heigth="38" width="38" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />    
     <img align="center" heigth="38" width="38" title="VS Code" src="https://code.visualstudio.com/assets/images/code-stable.png" />    
     <img align="center" heigth="38" width="38" title="Git" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253808/git-icon-icon-md.png" />    
+    <img align="center" heigth="38" width="50" title="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />    
   </div>
   <br>
 <div>
