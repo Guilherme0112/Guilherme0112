@@ -25,7 +25,10 @@
     <img align="center" width="35" title="Spring" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />   
 </div>
 <h4>Banco de Dados:</h4>
-    <img align="center" width="50" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<div>
+  <img align="center" width="50" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" width="35" title="PostgreSQL" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" />
+</div>
 <h4>Ferramentas:</h4>
   <div>
     <img align="center" heigth="38" width="38" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />    
