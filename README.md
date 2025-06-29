@@ -1,6 +1,6 @@
 ## Olá, eu sou o Guilherme
 <i>
-  Desenvolvedor back-end em formação, apaixonado por criar soluções inovadoras. Atualmente trabalhando em projetos pessoais. Procuro oportunidades para colaborar em projetos e aprimorar minhas habilidades.
+  Desenvolvedor Full Stack em formação, apaixonado por criar soluções inovadoras. Procuro oportunidades para colaborar em projetos e aprimorar minhas habilidades.
 </i>
 <br>
 <br>
@@ -27,7 +27,7 @@
 <h4>Banco de Dados:</h4>
 <div>
   <img align="center" width="50" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" width="35" title="PostgreSQL" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" />
+  <img align="center" width="35" title="PostgreSQL" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
 </div>
 <h4>Ferramentas:</h4>
   <div>
